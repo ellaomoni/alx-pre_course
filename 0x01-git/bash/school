@@ -1,1 +1,2 @@
-The school is so open!
+#!/bin/bash
+echo "School"
